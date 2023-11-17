@@ -1,4 +1,4 @@
-# Code for [Single-Call Stochastic Extragradient Methods for Structured Non-monotone Variational Inequalities: Improved Analysis under Weaker Conditions](https://arxiv.org/abs/2302.14043)
+# About
 
 This is the code associated with the paper [Single-Call Stochastic Extragradient Methods for Structured Non-monotone Variational Inequalities: Improved Analysis under Weaker Conditions](https://arxiv.org/abs/2302.14043). If you find this code useful, please cite it as:
 
